@@ -1,4 +1,4 @@
 # hello-world
 Hello world
 
-I've made spome changes.
+I've made some changes.
